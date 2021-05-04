@@ -1,0 +1,18 @@
+.driver-card-container {
+  background-color: #455eb5;
+  border-radius: 20px;
+  height: 150px;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.driver-img {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  margin-right: 20px;
+}
